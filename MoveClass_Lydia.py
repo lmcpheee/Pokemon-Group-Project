@@ -1,6 +1,5 @@
 import random
 
-
 class Move:
     def __init__(self, move_name, elemental_type, low_attack_points, high_attack_points):
         self.move_name = move_name
